@@ -1,0 +1,36 @@
+destination,country,continent,best_season,avg_temperature_c,avg_rainfall_mm,avg_aqi,crowd_level,safety_rating_5,estimated_daily_budget_usd,popularity_score_100
+Paris,France,Europe,Spring,16,55,38,High,4.5,180,92
+Rome,Italy,Europe,Spring,18,62,42,High,4.2,150,90
+Barcelona,Spain,Europe,Summer,25,35,45,High,4.1,145,89
+Amsterdam,Netherlands,Europe,Spring,14,68,30,High,4.4,165,87
+London,United Kingdom,Europe,Summer,19,58,36,High,4.3,190,91
+Zurich,Switzerland,Europe,Summer,21,110,22,Medium,4.8,230,85
+Santorini,Greece,Europe,Summer,27,12,28,High,4.6,175,88
+Prague,Czech Republic,Europe,Autumn,13,42,32,Medium,4.5,110,84
+Tokyo,Japan,Asia,Spring,18,125,48,High,4.7,160,96
+Kyoto,Japan,Asia,Spring,17,115,35,High,4.8,145,93
+Bali,Indonesia,Asia,Dry Season,28,70,55,High,4.0,75,90
+Bangkok,Thailand,Asia,Winter,29,15,68,High,3.8,65,92
+Singapore,Singapore,Asia,Winter,27,240,42,High,4.7,135,94
+Dubai,United Arab Emirates,Asia,Winter,24,10,115,High,4.1,170,89
+Kathmandu,Nepal,Asia,Autumn,19,45,52,Medium,3.8,45,80
+Jaipur,India,Asia,Winter,22,8,95,High,3.7,55,86
+Goa,India,Asia,Winter,27,5,48,High,4.0,60,88
+Varanasi,India,Asia,Winter,20,12,105,High,3.6,40,82
+Manali,India,Asia,Summer,15,95,28,Medium,4.0,50,84
+Colombo,Sri Lanka,Asia,Winter,28,90,62,Medium,3.9,70,83
+Cairo,Egypt,Africa,Winter,22,3,125,High,3.5,80,85
+Cape Town,South Africa,Africa,Summer,23,20,35,Medium,4.2,110,88
+Marrakech,Morocco,Africa,Spring,24,25,58,High,3.9,75,86
+Nairobi,Kenya,Africa,Dry Season,22,55,72,Medium,3.6,90,81
+New York City,United States,North America,Autumn,16,85,65,High,4.0,220,95
+Vancouver,Canada,North America,Summer,20,55,28,Medium,4.6,170,89
+Cancun,Mexico,North America,Winter,27,35,52,High,4.0,115,91
+Toronto,Canada,North America,Summer,22,78,44,High,4.3,160,87
+Rio de Janeiro,Brazil,South America,Summer,27,125,72,High,3.8,100,90
+Machu Picchu,Peru,South America,Dry Season,14,20,18,High,4.3,125,93
+Buenos Aires,Argentina,South America,Spring,20,105,48,High,4.1,95,86
+Sydney,Australia,Oceania,Summer,23,80,32,High,4.6,185,92
+Melbourne,Australia,Oceania,Autumn,17,55,30,High,4.5,175,88
+Queenstown,New Zealand,Oceania,Summer,16,75,12,Medium,4.8,165,87
+Fiji,Fiji,Oceania,Dry Season,26,65,18,Medium,4.5,145,84
